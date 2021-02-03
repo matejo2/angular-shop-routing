@@ -1,3 +1,8 @@
+Some links/ tutorials i followed:
+- https://angular.io/guide/router
+- https://codecraft.tv/courses/angular/routing/parameterised-routes/
+
+
 # ShopUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
